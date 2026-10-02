@@ -1,4 +1,4 @@
-package task4;
+package Array.task4;
 
 public class Main{
 

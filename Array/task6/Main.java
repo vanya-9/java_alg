@@ -1,4 +1,4 @@
-package task6;
+package Array.task6;
 public class Main{
 
     public static int[] moveZeroes(int[] nums) {

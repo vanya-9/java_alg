@@ -1,4 +1,4 @@
-package task12;
+package String.task12;
 
 public class Main{
 
